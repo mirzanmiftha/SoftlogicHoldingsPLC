@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ZEE FLIGHTS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ZEE FLIGHTS\\.nuget\\packages"
+    ]
+  }
+}
